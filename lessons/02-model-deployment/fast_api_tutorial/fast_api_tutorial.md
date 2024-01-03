@@ -160,6 +160,23 @@ curl -X 'POST' \
   -d '{
   "name": 70
 }'
+
+# this work: need to use 127.0.0.1 instead of localhost
+curl -X 'POST' \
+  'http://127.0.0.1:8000/greet' \
+  -H 'accept: application/json' \
+  -H 'Content-Type: application/json' \
+  -d '{
+  "name": "ludo"
+}'
+
+curl -X 'POST' \
+  'http://127.0.0.1:8000/greet' \
+  -H 'accept: application/json' \
+  -H 'Content-Type: application/json' \
+  -d '{
+  "surname": "ludo"
+}'
 ```
 
 The response you get should be a `422` error:

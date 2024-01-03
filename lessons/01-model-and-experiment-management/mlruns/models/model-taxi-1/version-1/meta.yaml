@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1701866834626
+current_stage: Staging
+description: null
+last_updated_timestamp: 1701869445369
+name: model-taxi-1
+run_id: 809fd92b42364c9a95d3de643ec841f5
+run_link: null
+source: file:///c:/Users/larnaud/Documents/repo%20artefact%20coaching/xhec-mlops-crashcourse-2023/lessons/01-model-and-experiment-management/mlruns/766857884227855716/809fd92b42364c9a95d3de643ec841f5/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

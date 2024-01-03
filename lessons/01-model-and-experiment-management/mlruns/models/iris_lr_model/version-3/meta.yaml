@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1701866651126
+current_stage: None
+description: null
+last_updated_timestamp: 1701866651126
+name: iris_lr_model
+run_id: 2d06da25649f466ebf43216f5ac73889
+run_link: null
+source: file:///c:/Users/larnaud/Documents/repo%20artefact%20coaching/xhec-mlops-crashcourse-2023/lessons/01-model-and-experiment-management/mlruns/766857884227855716/2d06da25649f466ebf43216f5ac73889/artifacts/models
+status: READY
+status_message: null
+user_id: null
+version: 3

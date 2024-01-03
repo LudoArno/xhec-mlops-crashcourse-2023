@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/larnaud/Documents/repo%20artefact%20coaching/xhec-mlops-crashcourse-2023/lessons/01-model-and-experiment-management/mlruns/546414584394831248/e7be1a42ad3e4e9ba541aa5009a47b74/artifacts
+end_time: 1704280909936
+entry_point_name: ''
+experiment_id: '546414584394831248'
+lifecycle_stage: active
+run_id: e7be1a42ad3e4e9ba541aa5009a47b74
+run_name: unleashed-lark-836
+run_uuid: e7be1a42ad3e4e9ba541aa5009a47b74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704280890889
+status: 4
+tags: []
+user_id: larnaud

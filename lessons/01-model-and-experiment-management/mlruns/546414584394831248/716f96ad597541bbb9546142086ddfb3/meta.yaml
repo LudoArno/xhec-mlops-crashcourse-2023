@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/larnaud/Documents/repo%20artefact%20coaching/xhec-mlops-crashcourse-2023/lessons/01-model-and-experiment-management/mlruns/546414584394831248/716f96ad597541bbb9546142086ddfb3/artifacts
+end_time: 1704281046504
+entry_point_name: ''
+experiment_id: '546414584394831248'
+lifecycle_stage: active
+run_id: 716f96ad597541bbb9546142086ddfb3
+run_name: charming-roo-732
+run_uuid: 716f96ad597541bbb9546142086ddfb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704281026413
+status: 3
+tags: []
+user_id: larnaud

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/larnaud/Documents/repo%20artefact%20coaching/xhec-mlops-crashcourse-2023/lessons/01-model-and-experiment-management/mlruns/766857884227855716/386c8da638a540f9b140c5931987295c/artifacts
+end_time: 1701860927551
+entry_point_name: ''
+experiment_id: '766857884227855716'
+lifecycle_stage: active
+run_id: 386c8da638a540f9b140c5931987295c
+run_name: capable-mouse-33
+run_uuid: 386c8da638a540f9b140c5931987295c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701860919590
+status: 3
+tags: []
+user_id: larnaud

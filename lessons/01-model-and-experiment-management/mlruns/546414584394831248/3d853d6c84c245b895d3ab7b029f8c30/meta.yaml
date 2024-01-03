@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/larnaud/Documents/repo%20artefact%20coaching/xhec-mlops-crashcourse-2023/lessons/01-model-and-experiment-management/mlruns/546414584394831248/3d853d6c84c245b895d3ab7b029f8c30/artifacts
+end_time: 1701868223177
+entry_point_name: ''
+experiment_id: '546414584394831248'
+lifecycle_stage: active
+run_id: 3d853d6c84c245b895d3ab7b029f8c30
+run_name: monumental-foal-994
+run_uuid: 3d853d6c84c245b895d3ab7b029f8c30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701868223125
+status: 4
+tags: []
+user_id: larnaud

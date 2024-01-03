@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/larnaud/Documents/repo%20artefact%20coaching/xhec-mlops-crashcourse-2023/lessons/01-model-and-experiment-management/mlruns/766857884227855716/2d06da25649f466ebf43216f5ac73889/artifacts
+end_time: 1701866651013
+entry_point_name: ''
+experiment_id: '766857884227855716'
+lifecycle_stage: active
+run_id: 2d06da25649f466ebf43216f5ac73889
+run_name: inquisitive-shad-914
+run_uuid: 2d06da25649f466ebf43216f5ac73889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701866644353
+status: 3
+tags: []
+user_id: larnaud

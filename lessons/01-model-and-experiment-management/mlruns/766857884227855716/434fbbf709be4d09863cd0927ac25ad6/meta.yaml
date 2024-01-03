@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/larnaud/Documents/repo%20artefact%20coaching/xhec-mlops-crashcourse-2023/lessons/01-model-and-experiment-management/mlruns/766857884227855716/434fbbf709be4d09863cd0927ac25ad6/artifacts
+end_time: 1704280856871
+entry_point_name: ''
+experiment_id: '766857884227855716'
+lifecycle_stage: active
+run_id: 434fbbf709be4d09863cd0927ac25ad6
+run_name: capricious-bee-443
+run_uuid: 434fbbf709be4d09863cd0927ac25ad6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704280852532
+status: 3
+tags: []
+user_id: larnaud

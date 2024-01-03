@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/larnaud/Documents/repo%20artefact%20coaching/xhec-mlops-crashcourse-2023/lessons/01-model-and-experiment-management/mlruns/546414584394831248
+creation_time: 1701866811103
+experiment_id: '546414584394831248'
+last_update_time: 1701866811103
+lifecycle_stage: active
+name: taxi-duration-experiment-1
