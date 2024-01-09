@@ -1,0 +1,51 @@
+# Python related
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+
+# Jupyter Notebook related
+.ipynb_checkpoints
+
+# CSV files
+*.csv
+
+# Streamlit related
+streamlit/.streamlit
+
+# Environment related
+.env
+.venv/
+venv/
+ENV/
+
+# IDE related
+.vscode/
+.idea/
+
+# Operating system related
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Others
+*.bak
+*.swp
+*.swo
+*.swn
+*.toc
+*.aux
+*.idx
+*.ind
+*.ilg
+*.out
+*.synctex.gz
+*.bbl
+*.blg
+*.brf
+*.fls
+*.fdb_latexmk
